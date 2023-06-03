@@ -19,18 +19,16 @@ Contents:
 
 Feel free to fork this repository, follow along with the YouTube series, and dive into the exciting world of Python and AI. Don't forget to star ⭐ the repo if you find it useful!
 
-YouTube Playlist:
+**YouTube Playlist**:
 
 https://www.youtube.com/playlist?list=PL1sHWmKpVDNyyaez8xHsom2mPYrpxRwPK
 
-Connect with Me:
+**Connect with Me**:
 
-Follow my journey and connect with me on:
+**Twitter**: https://twitter.com/jonathanzkoch
 
-Twitter: https://twitter.com/jonathanzkoch
+**YouTube**: https://www.youtube.com/@jonathanzkoch
 
-YouTube: https://www.youtube.com/@jonathanzkoch
-
-LinkedIn: https://www.linkedin.com/in/jonathanzkoch
+**LinkedIn**: https://www.linkedin.com/in/jonathanzkoch
 
 #Python #AI #MachineLearning #DeepLearning #PythonProgramming #PythonTutorial
